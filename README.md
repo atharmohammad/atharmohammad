@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**atharmohammad/atharmohammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/am7057">
+  <img align="left" alt="Mohd Athar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/athar-mohammad-34068a157/">
+  <img align="left" alt="Mohd Athar | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Hi! I am Mohd Athar , a passionate full stack Developer and a Competitive Coder from India 
+
+About me:
+
+- 🔭 I’m currently working on a Cool Project Idea (will Introduce it soon)
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on React or Django
+- 🤔 I’m looking for help with OpenSource
+- 💬 Ask me about any of my Projects
+- 📫 How to reach me: Mail me at (mohd.rule123@gmail.com)
+- 📝[Resume](https://drive.google.com/file/d/1qIqaavTlbrs7tAnoHIJXHna9UQEHgi3y/view?usp=sharing)
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://miro.medium.com/max/2400/1*HVKOLLX7wprRbHTl2IPDcQ.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
