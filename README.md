@@ -14,7 +14,7 @@
 
 About me:
 
-- 🔭 I’m currently working on a Cool Project Idea (will Introduce it soon)
+- 🔭 I’m currently working on a Project Idea (will Introduce it soon)
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on React or Django
 - 🤔 I’m looking for help with OpenSource
