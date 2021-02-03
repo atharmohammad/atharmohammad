@@ -8,8 +8,9 @@
   <img align="left" alt="Mohd Athar | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br/>
 
-### Hi! I am Mohd Athar , a passionate full stack Developer and a Competitive Coder from India 
+### Nice to see you here ! I am Mohd Athar , a passionate full stack Developer and a Competitive Coder from India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="35px">
 
 About me:
 
