@@ -15,8 +15,7 @@
 About me:
 
 - 🔭 I’m currently working on a Project Idea (will Introduce it soon)
-- 🌱 I’m currently learning Websockets
-- 👯 I’m looking to collaborate on React or Django
+- 👯 I’m looking to collaborate on React or Nodejs
 - 🤔 I’m looking for help with OpenSource
 - 💬 Ask me about any of my Projects
 - 📫 How to reach me: Mail me at (mohd.rule123@gmail.com)
@@ -32,3 +31,5 @@ About me:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://miro.medium.com/max/2400/1*HVKOLLX7wprRbHTl2IPDcQ.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"></code>
+<code><img height="20" src="https://cdn.buttercms.com/6IOYf3uRJMGxcpXMTswN"></code>
