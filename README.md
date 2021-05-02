@@ -19,7 +19,7 @@ About me:
 - 🤔 I’m looking for help with OpenSource
 - 💬 Ask me about any of my Projects
 - 📫 How to reach me: Mail me at (mohd.rule123@gmail.com)
-- 📝[Resume](https://drive.google.com/file/d/1qIqaavTlbrs7tAnoHIJXHna9UQEHgi3y/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1yo_hDD8jZ_s2W9uMv5OtkBRPYuIyeOmP/view)
 
 
 **Languages and Tools:**  
