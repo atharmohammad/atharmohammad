@@ -1,9 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/am7057">
-  <img align="left" alt="Mohd Athar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
 <a href="https://www.linkedin.com/in/athar-mohammad-34068a157/">
   <img align="left" alt="Mohd Athar | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
