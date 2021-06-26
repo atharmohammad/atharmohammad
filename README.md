@@ -12,7 +12,6 @@
 
 About me:
 
-- 🔭 I’m currently working on a Project Idea (will Introduce it soon)
 - 👯 I’m looking to collaborate on React or Nodejs or any interesting project Idea
 - 💬 Ask me about any of my Projects
 - 📫 How to reach me: Mail me at (mohd.rule123@gmail.com)
