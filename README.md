@@ -5,17 +5,17 @@
 </a>
 
 ![](https://komarev.com/ghpvc/?username=atharmohammad&style=plastic&color=orange)
-
 <br/>
-
 ### Nice to see you here ! I am Mohd Athar , a passionate full stack Developer and a Competitive Coder from India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="35px">
 
 About me:
 
-- 👯 I’m looking to collaborate on React or Nodejs or any interesting project Idea
 - 💬 Ask me about any of my Projects
+- 👯 I’m looking to collaborate on ... community projects!
+- 🌱 I’m currently learning .... (a student + contributor) 
+- 💬 Ask me about ... javascript, Python, React-JS , Nodejs , Socket.io or Open Source.
 - 📫 How to reach me: Mail me at (mohd.rule123@gmail.com)
-- 📝[Resume](https://drive.google.com/file/d/1yo_hDD8jZ_s2W9uMv5OtkBRPYuIyeOmP/view)
+- 📝[Resume](https://drive.google.com/drive/u/0/folders/14Ong39jBTZWhQcxrqkZw50YjiD9CBQIX)
 
 
 **Languages and Tools:**  
