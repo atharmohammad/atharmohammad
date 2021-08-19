@@ -15,7 +15,7 @@ About me:
 - 🌱 I’m currently learning .... (a student + contributor) 
 - 💬 Ask me about ... javascript, Python, React-JS , Nodejs , Socket.io or Open Source.
 - 📫 How to reach me: Mail me at (mohd.rule123@gmail.com)
-- 📝[Resume](https://drive.google.com/drive/u/0/folders/14Ong39jBTZWhQcxrqkZw50YjiD9CBQIX)
+- 📝[Resume](https://drive.google.com/file/d/1bq3bri6UVnUtP5TurDHnEN0dLWIzHixG/view?usp=sharing)
 
 
 **Languages and Tools:**  
