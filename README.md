@@ -11,11 +11,11 @@
 About me:
 
 - 💬 Ask me about any of my Projects
-- 👯 I’m looking to collaborate on ... community projects!
-- 🌱 I’m currently learning .... (a student + contributor) 
-- 💬 Ask me about ... javascript, Python, React-JS , Nodejs , Socket.io or Open Source.
+- 👯 I’m looking to collaborate on Open-Source and Real-world use Projects!
+- 🌱 I’m Learning while contributing to opensource
+- 💬 Ask me about javascript, Python, React-JS , Nodejs , Socket.io and any tech i have used or Open Source.
 - 📫 How to reach me: Mail me at (mohd.rule123@gmail.com)
-- 📝[Resume](https://drive.google.com/file/d/1bq3bri6UVnUtP5TurDHnEN0dLWIzHixG/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/drive/u/0/folders/14Ong39jBTZWhQcxrqkZw50YjiD9CBQIX)
 
 
 **Languages and Tools:**  
