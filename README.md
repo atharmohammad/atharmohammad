@@ -18,17 +18,17 @@ About me:
 - 🌱 I’m Learning while contributing to opensource
 - 💬 Ask me about javascript, Python, React-JS , Nodejs , Socket.io and any tech i have used or Open Source.
 - 📫 How to reach me: Mail me at (mohd.rule123@gmail.com)
-- 📝[Resume](https://drive.google.com/drive/u/0/folders/14Ong39jBTZWhQcxrqkZw50YjiD9CBQIX)
 
+<summary><h2>Github Stats 📈:</h2></summary>
+	
+<p align="center">
+  <img height= "180px" src="https://github-readme-stats.vercel.app/api?username=atharmohammad&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a" />
+  <img height= "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharmohammad&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css" />
+</p>
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://miro.medium.com/max/2400/1*HVKOLLX7wprRbHTl2IPDcQ.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
-<code><img height="20" src="https://coralogix.com/wp-content/uploads/2018/04/Coralogix-Nodejs-integration.jpg"></code>
-<code><img height="20" src="https://cdn.buttercms.com/6IOYf3uRJMGxcpXMTswN"></code>
+<p align="center">
+  <summary><h2>Github Activity Graph 📈:</h2></summary>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=atharmohammad&theme=xcode" />
+</p>
+</p>
