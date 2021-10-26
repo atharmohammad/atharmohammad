@@ -21,9 +21,9 @@ About me:
 
 <summary><h2>Github Stats 📈:</h2></summary>
 	
-<p align="center">
-  <img height= "180px" src="https://github-readme-stats.vercel.app/api?username=atharmohammad&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a" />
-  <img height= "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharmohammad&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css" />
+<p align="center" display="flex">
+  <img height= "160px" src="https://github-readme-stats.vercel.app/api?username=atharmohammad&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a" />
+  <img height= "160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharmohammad&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css" />
 </p>
 
 <p align="center">
