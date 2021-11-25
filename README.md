@@ -26,9 +26,4 @@ About me:
   <img height= "160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharmohammad&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css" />
 </p>
 
-<p align="center">
-  <summary><h2>Github Activity Graph 📈:</h2></summary>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=atharmohammad&theme=xcode" />
-</p>
 </p>
