@@ -17,9 +17,9 @@
 About me:
 
 - 💬 Ask me about any of my Projects
-- 👯 I’m looking to collaborate on Open-Source and Real-world use Projects!
+- 👯 I’m looking to collaborate on Open-Source and Blockchain Projects!
 - 🌱 I’m Learning while contributing to opensource
-- 💬 Ask me about javascript, Python, React-JS , Nodejs , Socket.io and any tech i have used or Open Source.
+- 💬 Ask me about blockchain , web3 , javascript, C++, Python, React-JS , Nodejs , Socket.io , Machine Learning , Deep Learning and any tech i have used or Open Source.
 - 📫 How to reach me: Mail me at (mohd.rule123@gmail.com)
 
 <summary><h2>Github Stats 📈:</h2></summary>
