@@ -7,8 +7,7 @@
   <img align="left" alt="Mohd Athar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCiYvysiTxz5Oa0FtiotXgkg">
-  <img align="left" alt="Mohd Athar | Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg
-" />
+  <img align="left" alt="Mohd Athar | Youtube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=atharmohammad&style=plastic&color=orange)
