@@ -6,6 +6,10 @@
 <a href="https://twitter.com/Athar__Mohammad">
   <img align="left" alt="Mohd Athar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<a href="https://www.youtube.com/channel/UCiYvysiTxz5Oa0FtiotXgkg">
+  <img align="left" alt="Mohd Athar | Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg
+" />
+</a>
 
 ![](https://komarev.com/ghpvc/?username=atharmohammad&style=plastic&color=orange)
 <br/>
