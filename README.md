@@ -19,7 +19,7 @@ About me:
 - 💬 Ask me about any of my Projects
 - 👯 I’m looking to collaborate on Open-Source and Blockchain Projects!
 - 🌱 I’m Learning while contributing to opensource
-- 💬 Ask me about blockchain , web3 , javascript, C++, Python, React-JS , Nodejs , Socket.io , Machine Learning , Deep Learning and any tech i have used or Open Source.
+- 💬 Ask me about blockchain , web3 ,Solana,javascript, C++, Python,Rust,React-JS , Nodejs , Socket.io , Machine Learning , Deep Learning and any tech i have used or Open Source.
 - 📫 How to reach me: Mail me at (mohd.rule123@gmail.com)
 
 <summary><h2>Github Stats 📈:</h2></summary>
@@ -27,6 +27,13 @@ About me:
 <p align="center" display="flex">
   <img height= "160px" src="https://github-readme-stats.vercel.app/api?username=atharmohammad&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a" />
   <img height= "160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharmohammad&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css" />
+</p>
+
+<p align="center" display="flex">
+
+<a href="https://leetcode.com/athar_mohammad/" target="_blank" rel="noreferrer">
+<img height="250" width="2000" align="center" src="https://leetcard.jacoblin.cool/athar_mohammad?theme=dark&font=monospace&ext=contest" />
+</a>
 </p>
 
 </p>
