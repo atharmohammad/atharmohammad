@@ -9,20 +9,14 @@
 <a href="https://www.youtube.com/channel/UCiYvysiTxz5Oa0FtiotXgkg">
   <img align="left" alt="Mohd Athar | Youtube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" />
 </a>
-<a href="https://github.com/athar-d-reader">
-  <img align="left" alt="Mohd Athar | Youtube" width="40px" src="https://raw.githubusercontent.com/gist/christophermanning/4460135/raw/7278f8125f4508e096396b024304daf238e38b97/octocat.svg" />
-</a>
 
 ![](https://komarev.com/ghpvc/?username=atharmohammad&style=plastic&color=orange)
 <br/>
-### Nice to see you here ! I am Mohd Athar , a passionate full stack Developer and a Competitive Coder from India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="35px">
+### 
 
-About me:
-
-- 💬 Ask me about any of my Projects
-- 👯 I’m looking to collaborate on Open-Source and Blockchain Projects!
-- 🌱 I’m Learning while contributing to opensource
-- 💬 Ask me about blockchain , web3 ,Solana,javascript, C++, Python,Rust,React-JS , Nodejs , Socket.io , Machine Learning , Deep Learning and any tech i have used or Open Source.
+- 💬 Open to discussions on my libraries, Web3, Solana, or something cool you're building. 🫵.
+- 🌱 Passionate about building projects from scratch and scaling them for wider adoption.
+- 💻 Interested in Blockchain, Web3, Solana, Distributed Systems, TypeScript, Rust, React, NestJS, Axum, and Machine Learning.
 - 📫 How to reach me: Mail me at (mohd.rule123@gmail.com)
 
 <summary><h2>Github Stats 📈:</h2></summary>
